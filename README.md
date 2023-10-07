@@ -3,7 +3,8 @@
 - 👯 I’m looking to collaborate on data science projects with others.
 - 📫 How to reach me: maheswaarr73@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a big fan of Iron Man😁 and I love to code in my spare time💻.
+- ⚡ Fun fact: GitHub was founded in 2008 by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett.
+  
 
 
 
