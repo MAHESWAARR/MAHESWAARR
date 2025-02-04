@@ -1,9 +1,9 @@
-- 👋 Hello, I'm Maheswaarr
-- 🌱 I’m currently learning about Development and enhancing user experience.
-- 👯 I’m looking to collaborate projects with others.
-- 📫 How to reach me: 📧 
+- 👋 Hi, I'm Maheswaarr!
+- 🌱 Currently learning development and enhancing user experience.
+- 👯 Open to collaborating on projects with others.
+- 📫 Reach me at: [📧](mailto:maheswaarr73@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: GitHub was founded in 2008 by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett.
+- ⚡ Fun Fact: I enjoy solving complex problems and turning ideas into functional applications!
   
 
 
