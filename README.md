@@ -1,7 +1,7 @@
 - 👋 Hello, I'm Maheswaarr
-- 🌱 I’m currently learning about machine learning, data mining, and statistical analysis.
-- 👯 I’m looking to collaborate on data science projects with others.
-- 📫 How to reach me: maheswaarr73@gmail.com
+- 🌱 I’m currently learning about Development and enhancing user experience.
+- 👯 I’m looking to collaborate projects with others.
+- 📫 How to reach me: 📧 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: GitHub was founded in 2008 by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett.
   
